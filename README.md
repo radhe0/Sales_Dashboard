@@ -1,3 +1,4 @@
+[26_dec_sales_dash.pdf](https://github.com/user-attachments/files/18296106/26_dec_sales_dash.pdf)
 # Sales_Dashboard
 
 ## Sales Dashboard - Power BI
@@ -20,7 +21,7 @@ Open the 26_dec_sales_dash.pbix file in Power BI Desktop.
 Explore the dashboard or connect it to your data source to update the visualizations.
 
 ## Preview
-[26_dec_sales_dash.pdf](https://github.com/user-attachments/files/18287609/26_dec_sales_dash.pdf)
+![26_dec_sales_dash_page-0001](https://github.com/user-attachments/assets/4fcf8db7-1baf-4c74-ba68-f26be2961a68)
 
 
 License
